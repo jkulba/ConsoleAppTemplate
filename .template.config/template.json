@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Jim Kulba",
+    "classifications": ["Common", "Console"],
+    "identity": "Template.App",
+    "name": "Console App Template",
+    "shortName": "console-app",
+    "sourceName": "Template.App",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": true
+}
